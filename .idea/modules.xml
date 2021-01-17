@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-App---Tiggie-Bounce.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-App---Tiggie-Bounce.iml" group="Android-App---Tiggie-Bounce" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-App---Tiggie-Bounce-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-App---Tiggie-Bounce-app.iml" group="Android-App---Tiggie-Bounce/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitduh.iml" filepath="$PROJECT_DIR$/rabbitduh.iml" />
     </modules>
